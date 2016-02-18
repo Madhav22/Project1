@@ -1,32 +1,54 @@
 <body>
 
 <div id="header">
-<h1>Social Mama</h1>
+<img src="file:///Users/madhavsharma/Desktop/Website/logo.png" alt=“Social Mama Logo” style="width:280px;height:100px;" align= “Left”;>
+	
 </div>
 
 <div id="nav">
-About Us<br>
-The Idea<br>
-Our Team<br>
-Contact Us<br>
-Privacy Policy
+<a href="file:///Users/madhavsharma/Desktop/Website/Social%20Mama%20Website-About%20Us.html">About Us</a><br>
+<a href="file:///Users/madhavsharma/Desktop/Website/Social%20Mama%20Website-The%20Idea.html">The Idea</a><br>
+<a href="file:///Users/madhavsharma/Desktop/Website/Social%20Mama%20Website-Our%20Team.html">Our Team</a><br>
+<a href="file:///Users/madhavsharma/Desktop/Website/Social%20Mama%20Website-Contact%20Us.html">Contact Us</a><br>
+<a href="file:///Users/madhavsharma/Desktop/Website/Social%20Mama%20Website-Privacy%20Policy.html">Privacy Policy</a>
 </div>
 
 <div id="section">
-<h1>About Us</h1>
-<p>Have you ever wanted to create your own group of like minded moms and build your own MamaTribe. Social Mama uses over 12 dimensions to match you with like-minded mothers in your local area.</p>
-<p>Essentially, it is mom-dating. Whether you are looking to ask a questions, meet a friend, or collaborate on a business idea, Social Mama will match you with whom you 
-are looking for. It is a simple as creating a profile and then viewing all your matches.</p>
+	<h1>About Us
+	</h1>
+		<p>We are a <q>Mama</q> centric company that was founded on the basis of connecting mothers to collaborate. To create their own Mama tribe that can change the world. Using a patented algorithm, Parents are matched simply and privately with other parents that they are looking for. Whether it is parenting styles, languages you speak or your <q>after school</q> activities, the matching services enables you to decide what you are looking for.
+Mamas rule the world and Social Mama understands this. With a philanthropic purpose, Social Mama will not only connect Mothers, but it will help parents help each other. Mama Tribes want to fulfill their dreams and Social Mama wants to help Mothers do just that. We need you to help us organically grow the Mama network. Share us, like us, tag us and use us. Give someone advice that is struggling in footprints, and invite a local to one of our mixers. Social Mama will only make the world a better place, if you help us create Mama Tribes everywhere.	
+		</p>
 </div>
 
 <div id="footer">
-Copyright © Socialmama.us
+Copyright &#169; Socialmama.us
 </div>
 
 </body>
 <style>
+a:link {
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:visited {
+    color: Black;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:hover {
+    color: DarkBlue;
+    background-color: transparent;
+    text-decoration: underline;
+}
+a:active {
+    color: yellow;
+    background-color: darkblue;
+    text-decoration: underline;
+}
 #header {
-    background-color:#f87ae0;
+    background-color:White;
     color:white;
     text-align:center;
     padding:2px;
@@ -41,9 +63,9 @@ Copyright © Socialmama.us
     padding:5px; 
 }
 #section {
-    width:350px;
+    width:600px;
     float:left;
-    padding:10px; 
+    padding:5px; 
 }
 #footer {
     background-color:#f87ae0;
