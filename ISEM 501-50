@@ -14,10 +14,11 @@
 </div>
 
 <div id="section">
-	<h1>About Us
+	<h1>
+Privacy Policy
 	</h1>
-		<p>We are a <q>Mama</q> centric company that was founded on the basis of connecting mothers to collaborate. To create their own Mama tribe that can change the world. Using a patented algorithm, Parents are matched simply and privately with other parents that they are looking for. Whether it is parenting styles, languages you speak or your <q>after school</q> activities, the matching services enables you to decide what you are looking for.
-Mamas rule the world and Social Mama understands this. With a philanthropic purpose, Social Mama will not only connect Mothers, but it will help parents help each other. Mama Tribes want to fulfill their dreams and Social Mama wants to help Mothers do just that. We need you to help us organically grow the Mama network. Share us, like us, tag us and use us. Give someone advice that is struggling in footprints, and invite a local to one of our mixers. Social Mama will only make the world a better place, if you help us create Mama Tribes everywhere.	
+		<p>
+	
 		</p>
 </div>
 
@@ -63,7 +64,7 @@ a:active {
     padding:5px; 
 }
 #section {
-    width:600px;
+    width:450px;
     float:left;
     padding:5px; 
 }
