@@ -1,32 +1,54 @@
 <body>
 
 <div id="header">
-<h1>Social Mama</h1>
+<img src="file:///Users/madhavsharma/Desktop/Website/logo.png" alt=“Social Mama Logo” style="width:280px;height:100px;" align= “Left”;>
+	
 </div>
 
 <div id="nav">
-About Us<br>
-The Idea<br>
-Our Team<br>
-Contact Us<br>
-Privacy Policy
+<a href="file:///Users/madhavsharma/Desktop/Website/Social%20Mama%20Website-About%20Us.html">About Us</a><br>
+<a href="file:///Users/madhavsharma/Desktop/Website/Social%20Mama%20Website-The%20Idea.html">The Idea</a><br>
+<a href="file:///Users/madhavsharma/Desktop/Website/Social%20Mama%20Website-Our%20Team.html">Our Team</a><br>
+<a href="file:///Users/madhavsharma/Desktop/Website/Social%20Mama%20Website-Contact%20Us.html">Contact Us</a><br>
+<a href="file:///Users/madhavsharma/Desktop/Website/Social%20Mama%20Website-Privacy%20Policy.html">Privacy Policy</a>
 </div>
 
 <div id="section">
-<h1>About Us</h1>
-<p>Have you ever wanted to create your own group of like minded moms and build your own MamaTribe. Social Mama uses over 12 dimensions to match you with like-minded mothers in your local area.</p>
-<p>Essentially, it is mom-dating. Whether you are looking to ask a questions, meet a friend, or collaborate on a business idea, Social Mama will match you with whom you 
-are looking for. It is a simple as creating a profile and then viewing all your matches.</p>
+	<h1>
+Our Team
+	</h1>
+		<img src="file:///Users/madhavsharma/Desktop/Website/Team.jpg" alt=“Team” style="width:650px;height:420px;" align= “Left”;>
+
 </div>
 
 <div id="footer">
-Copyright © Socialmama.us
+Copyright &#169; Socialmama.us
 </div>
 
 </body>
 <style>
+a:link {
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:visited {
+    color: Black;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:hover {
+    color: DarkBlue;
+    background-color: transparent;
+    text-decoration: underline;
+}
+a:active {
+    color: yellow;
+    background-color: darkblue;
+    text-decoration: underline;
+}
 #header {
-    background-color:#f87ae0;
+    background-color:White;
     color:white;
     text-align:center;
     padding:2px;
@@ -35,15 +57,15 @@ Copyright © Socialmama.us
     line-height:30px;
     background-color:#fdd3f5;
     Color:#4b4947;
-    height:300px;
+    height:500px;
     width:100px;
     float:left;
     padding:5px; 
 }
 #section {
-    width:350px;
+    width:450px;
     float:left;
-    padding:10px; 
+    padding:5px; 
 }
 #footer {
     background-color:#f87ae0;
